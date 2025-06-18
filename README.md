@@ -1,0 +1,2 @@
+# Autogen-Project-to-Build-an-Intelligent-AI-Personal-Assistant
+This advanced project uses AutoGen, an agentic AI framework developed by Microsoft, to build a multi-agent personal assistant that can automate complex daily tasks like managing calendars, sending emails, creating reminders, performing web research, fetching weather updates, and integrating with platforms such as Google Workspace and Slack.
